@@ -1,6 +1,5 @@
-# contact-list-manager
 
-#Application Features/Functionalities
+#Contact List Manager - Application Features/Functionalities:
 
 #Contact list:
 1.The app should list the contacts
